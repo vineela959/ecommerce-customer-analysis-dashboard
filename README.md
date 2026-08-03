@@ -2,7 +2,7 @@
 
 ## 📊 Dashboard Overview
 
-![Dashboard Overview](Images/dashboard_overview.png)
+![Dashboard Overview](Screenshots/dashboard_overview.png)
 
 ## 📌 Project Overview
 
@@ -34,7 +34,7 @@ Provides a high-level summary of business performance using KPIs and trend analy
 
 **Screenshot**
 
-![Executive Overview](Images/executive_overview.png)
+![Executive Overview](Screenshots/executive_overview.png)
 
 ---
 
@@ -51,7 +51,7 @@ Analyzes customer purchasing behavior and product performance.
 
 **Screenshot**
 
-![Customer & Product Analysis](Images/customer_product_analysis.png)
+![Customer & Product Analysis](Screenshots/customer_product_analysis.png)
 
 ---
 
@@ -68,7 +68,7 @@ Analyzes ordering patterns across different time periods.
 
 **Screenshot**
 
-![Order Analysis](Images/order_analysis.png)
+![Order Analysis](Screenshots/order_analysis.png)
 
 ---
 
@@ -83,7 +83,7 @@ Summarizes the most important findings and business recommendations.
 
 **Screenshot**
 
-![Business Insights](Images/business_insights.png)
+![Business Insights](Screenshots/business_insights.png)
 
 ---
 
