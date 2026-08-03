@@ -1,12 +1,14 @@
 # 🛒 E-Commerce Customer Analysis Dashboard
 
-## 📊 Dashboard Overview
-
-![Dashboard Overview](Screenshots/executive_overview.png)
-
 ## 📌 Project Overview
 
 This project presents an interactive **Power BI dashboard** designed to analyze e-commerce sales, customer purchasing behavior, product performance, and order trends. The dashboard transforms raw transactional data into meaningful business insights, helping stakeholders make informed decisions through interactive visualizations and KPIs.
+
+---
+
+## 📊 Dashboard Overview
+
+![Dashboard Overview](Screenshots/executive_overview.png)
 
 ---
 
