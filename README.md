@@ -2,7 +2,7 @@
 
 ## 📊 Dashboard Overview
 
-![Dashboard Overview](Screenshots/dashboard_overview.png)
+![Dashboard Overview](Screenshots/executive_overview.png)
 
 ## 📌 Project Overview
 
@@ -18,27 +18,7 @@ E-commerce businesses generate large volumes of transactional data, making it di
 
 ## 📂 Dashboard Pages
 
-### 1️⃣ Executive Overview
-
-Provides a high-level summary of business performance using KPIs and trend analysis.
-
-**Key Highlights**
-- Total Sales
-- Total Orders
-- Total Customers
-- Total Quantity Sold
-- Average Order Value
-- Average Sales per Customer
-- Monthly Sales Trend
-- Top 10 Countries by Sales
-
-**Screenshot**
-
-![Executive Overview](Screenshots/executive_overview.png)
-
----
-
-### 2️⃣ Customer & Product Analysis
+### 1️⃣ Customer & Product Analysis
 
 Analyzes customer purchasing behavior and product performance.
 
@@ -55,7 +35,7 @@ Analyzes customer purchasing behavior and product performance.
 
 ---
 
-### 3️⃣ Order Analysis
+### 2️⃣ Order Analysis
 
 Analyzes ordering patterns across different time periods.
 
@@ -72,7 +52,7 @@ Analyzes ordering patterns across different time periods.
 
 ---
 
-### 4️⃣ Business Insights & Recommendations
+### 3️⃣ Business Insights & Recommendations
 
 Summarizes the most important findings and business recommendations.
 
